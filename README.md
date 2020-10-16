@@ -8,6 +8,9 @@ V2ray多用户管理脚本，向导式管理[新增|删除|修改]传输协议�
 
 ## [中文](README.md)  [English](README_EN.md)
 
+
+#  打赏我 https://www.paypal.com/paypalme/uaa2020
+
 ## 特色
 - [x] 调用v2ray官方api进行流量统计
 - [x] **多用户, 多端口管理**, 混合传输协议管理不再是梦
